@@ -1,5 +1,10 @@
-Versatile \n
-Advanced \n
-Unified \n
-Logic-based \n
-Trusted (storage) \n
+Versatile
+
+Advanced
+
+Unified
+
+Logic-based
+
+Trusted (storage)
+
